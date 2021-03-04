@@ -7,13 +7,16 @@ To play again, click on anyone of your's choice or computer's choice.<br/>
 <br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/start.png)
 <br/>
+<br/>
 **Won Image :**
 <br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/won.png)
 <br/>
+<br/>
 **Lost Image :**
 <br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/lost.png)
+<br/>
 <br/>
 **Drawn Image :**
 <br/>
