@@ -4,13 +4,17 @@ In this player have to choose one of the 3 given choices and computer will rando
 To play again, click on anyone of your's choice or computer's choice.<br/>
 <br/>
 **Start Image :**
+<br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/start.png)
 <br/>
 **Won Image :**
+<br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/won.png)
 <br/>
 **Lost Image :**
+<br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/lost.png)
 <br/>
 **Drawn Image :**
+<br/>
 ![alt text](https://github.com/amansac/rock-paper-scissor/blob/main/samples/draw.png)
